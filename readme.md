@@ -39,6 +39,49 @@
     </p>
    `npm install discord.js`
     <h3> You have successfully installed all the required prerequisites for hosting locally.
+    <h2> Method 2: Glitch Hosting </h2> 
+    <p> Glitch is a website that allows you to edit and host code on their website for free. If you want to host this bot on their servers instead of your computer then this is the method that you want to follow. Its good if you can't keep your computer on 24/7 to host the bot. </p>
+    
+    <p> - Step 1: (Glitch Method)
+        <a href="https://glitch.com/signup"> Sign Up </a> to glitch. 
+    </p> 
+    
+    <p> - Step 2: 
+        Create a new project and navigate to the bottom and select "Import From Github" 
+        <p align="center"
+        <img src="https://confighub.photos/images/u1Gcvy82ii2alWCKQVmjgmByo.png"> alt="Import From Github" />
+    </p>
+    </p>
+    <p> - Step 3: 
+    When prompted to paste url of repository enter the following url: 
+    https://github.com/MasterPanda61/DiscordSpamBot
+    </p>
+    <p> - Step 4: 
+    <p align="center">
+    Once you are taken to this screen <img src="https://confighub.photos/images/4vXSCZIXzAYbeIi4mMOP2oS80.png"> Image /> You will want to change "token here" with your bot token. If you want to know how to get your bot token go to <a href="https://github.com/MasterPanda61/BotToken/blob/main/readme.md" </a>
+    </p>
+    You will then have to invite your bot to your server. 
+    This Can be done by doing the following. 
+    https://discord.com/oauth2/authorize?client_id=( PUT YOUR BOT CLIENT ID HERE ) &permissions=8&scope=bot
+    The invite code will allow you to invite your bot to your server. The permissions have been set to 8 (administrator) however you can change this if you want.
+    </p>
+    <p> - Step 5: 
+    You will want to change "PingChannelID" with the discord channel id in the server. 
+    E.G: 694153535062802487 
+    Then you can chose what you want it to spam under "mention". By default it is set to @everyone however you can change this to whatever you want. 
+    </p> 
+    <p> - Step 6: 
+    Starting the bot: To start the bot on glitch you will want to make sure that it is invited to your server and that all the config settings are correct. Once they are correct you will want to navigate to the bottom left and select "tools" then "terminal"
+    <p align="center">
+        <img src="https://confighub.photos/images/aPgN8Eto2Dn6qkoLgKmqvRLOv.png" />
+        </p>
+        Then you will want to enter the following to start the bot. 
+        `npm start` 
+    <h2> Other Steps: </h2> 
+    <h3> How to keep glitch bot online 24/7 </h3> 
+    <p> By Default, projects hosted on glitch will automatically shut down after 5 minutes of inactivity. You can fix this by following the following tutorial: 
+    
+    
     
     
     
