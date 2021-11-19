@@ -37,7 +37,7 @@
     - Step 2: 
     Once you have installed NODE.js you will also need to install the discord.js library onto your computer, run the following code in the node.js command prompt
     </p>
-    npm install discord.js
+    <script>npm install discord.js</script>
     <h3> You have successfully installed all the required prerequisites for hosting locally.
     
     
