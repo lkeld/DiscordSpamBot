@@ -19,8 +19,7 @@
     <h2> About The Project </h2>
     </p>
     <h3> A simple project that I worked on a while back. I personally used it for a mass pinging discord which was later deleted. It uses the discord.js library. </h3>
-    
-    <p align="center"> 
+   <p align="center"> 
     <h2> What was used to make this: </h2>
     </p>
     <h3> The <a href="https://discord.js.org"> discord.js </a> library was used to code this bot </h3> 
