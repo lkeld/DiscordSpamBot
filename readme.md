@@ -33,10 +33,7 @@
     <p>- Step 1: (Local Hosting)
     You will require Node.js to run this on your computer locally. You can download node.js from <a href="https://nodejs.org/en/"> Here </a>
     - Step 2: 
-    
- 
- Once you have installed NODE.js you will also need to install the discord.js library onto your computer, run the following code in the node.js command prompt
-   
+    Once you have installed NODE.js you will also need to install the discord.js library onto your computer, run the following code in the node.js command prompt
    ```npm install discord.js```
     </p>
     <h3> You have successfully installed all the required prerequisites for hosting locally.
