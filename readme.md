@@ -32,6 +32,8 @@
     <h3> If you will be running this locally on your computer, you will need to follow the steps below. </h3>
     <p>- Step 1: (Local Hosting)
     You will require Node.js to run this on your computer locally. You can download node.js from <a href="https://nodejs.org/en/"> Here </a>
+   </p>
+   <p>
     - Step 2: 
     Once you have installed NODE.js you will also need to install the discord.js library onto your computer, run the following code in the node.js command prompt
    ```npm install discord.js```
