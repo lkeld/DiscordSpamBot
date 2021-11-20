@@ -76,7 +76,7 @@
         <img src="https://confighub.photos/images/aPgN8Eto2Dn6qkoLgKmqvRLOv.png" />
         </p>
         Then you will want to enter the following to start the bot. 
-        `npm start` 
+        `npm start` '
     <h2> Other Steps: </h2> 
     <h3> How to keep glitch bot online 24/7 </h3> 
     <p> By Default, projects hosted on glitch will automatically shut down after 5 minutes of inactivity. You can fix this by following the following tutorial: 
